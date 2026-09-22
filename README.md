@@ -1,16 +1,17 @@
 # Francisco Figueroa
 
-Data Analyst with a B.S. in Computer Information Systems and hands-on experience in SQL, Python, ETL workflows, data validation, visualization, and AWS-based data environments.
+Data Analyst and Data Engineer with a B.S. in Computer Information Systems and hands-on experience in SQL, Python, ETL workflows, data validation, visualization, and AWS cloud environments.
 
-I enjoy transforming raw information into reliable datasets, clear reports, and practical insights. My current focus is strengthening my analytics portfolio while continuing to develop experience with data pipelines and cloud technologies.
+My data engineering experience includes supporting AWS-based data and staging environments, database connectivity, cloud monitoring, deployment validation, and technical documentation. I also enjoy transforming raw information into reliable datasets, clear reports, and practical business insights.
 
 ## Core Skills
 
 * **Data analysis:** SQL, Excel, Python, pandas
 * **Visualization:** Tableau, Power BI, Matplotlib
-* **Data engineering:** ETL, Apache Airflow, relational databases
-* **Cloud and development:** AWS, Git, GitHub, VS Code
-* **Additional experience:** Data cleaning, validation, reporting, and discrepancy investigation
+* **Data engineering:** ETL, Apache Airflow, MySQL, PostgreSQL, relational database design
+* **AWS and cloud:** RDS, S3, ECS, CloudWatch, Secrets Manager
+* **Development tools:** Git, GitHub, VS Code, Jupyter
+* **Data quality:** Data cleaning, validation, reporting, and discrepancy investigation
 
 ## Featured Projects
 
@@ -30,8 +31,9 @@ An exploratory analysis of Chicago crime data focused on identifying temporal an
 
 * Building portfolio projects that answer practical business questions
 * Advancing my Python, SQL, API, and automation skills
+* Strengthening my experience with ETL workflows and AWS cloud services
 * Developing analytics and automation solutions for service-based businesses
-* Pursuing a remote Data Analyst opportunity
+* Pursuing remote Data Analyst and Data Engineer opportunities
 
 ## Connect
 
